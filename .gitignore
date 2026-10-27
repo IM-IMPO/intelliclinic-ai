@@ -1,0 +1,29 @@
+# Local development credentials.
+#
+# The backend generates a random password for each seeded account when the
+# corresponding *_PASSWORD environment variable is unset, and stores it here so
+# the development scripts can log in. This file must never be committed: the
+# seeded nurse/doctor accounts can approve writes to OpenMRS.
+backend/app/.dev-credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.local
+
+# Frontend
+node_modules/
+dist/
+.vite/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

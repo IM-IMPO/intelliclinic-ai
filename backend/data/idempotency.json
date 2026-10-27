@@ -1,0 +1,27 @@
+{
+  "e2e-one-patient-82922600": {
+    "fingerprint": "e4bd3c6bc01ed9d2957a593faf4586729125559b879333a3f0ffce106a57e908",
+    "encounter_uuid": "34feee26-6cce-4b1e-b5dc-001c2ff2c809",
+    "observation_uuids": [],
+    "submitted_at": "2026-10-26T16:02:07.615583+00:00",
+    "approved_by": "doctor"
+  },
+  "e2e-one-patient-24770900": {
+    "fingerprint": "bbc3fb319314f45810c5fdd3e72ac887d91799a74700256e423504b012d2b202",
+    "encounter_uuid": "18eaf49c-7d40-4d2e-acfd-810b5a8ed9e6",
+    "observation_uuids": [],
+    "submitted_at": "2026-10-26T16:05:34.509966+00:00",
+    "approved_by": "doctor"
+  },
+  "smoke-doctor-1": {
+    "fingerprint": "277f5b8ccd9c5657fc92769eb1f58a0b239bbead78fb50dd50eb17f3e1ce0149",
+    "encounter_uuid": "802e6eca-83fb-4853-9797-c5f06ea90051",
+    "observation_uuids": [
+      "0029deff-15a5-4b99-a497-e00b87accaf0",
+      "8b0d5613-05e7-402c-82af-ccf890e5f109",
+      "12e70cb6-8ee6-4cfc-ab4b-8510763228d1"
+    ],
+    "submitted_at": "2026-10-26T16:29:14.998425+00:00",
+    "approved_by": "doctor"
+  }
+}

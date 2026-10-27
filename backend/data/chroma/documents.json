@@ -1,0 +1,28 @@
+[
+  {
+    "document_id": "test-doc-1",
+    "title": "Test guideline",
+    "source_version": "v1",
+    "effective_date": null,
+    "review_status": "PENDING_REVIEW",
+    "topic": "general",
+    "path": "",
+    "chunk_count": 1,
+    "uploaded_by": "Doctor Demo",
+    "uploaded_at": "2026-10-25T18:41:00.432394+00:00",
+    "sha256": "bef84c24aec195a7144475f7b0ce3ddeccc902a322e7a39e8ad4958be18f4cde"
+  },
+  {
+    "document_id": "immunization-guidelines-2024",
+    "title": "Approved Immunization Guidelines",
+    "source_version": "2024.1",
+    "effective_date": "2024-01-01",
+    "review_status": "APPROVED",
+    "topic": "immunization",
+    "path": "",
+    "chunk_count": 4,
+    "uploaded_by": "Doctor Demo",
+    "uploaded_at": "2026-10-26T16:15:30.964140+00:00",
+    "sha256": "b21d845dc4cbdbf31aadf5b753cf8ea2f78cac4e0d35e469c3cefbd94d8a606f"
+  }
+]

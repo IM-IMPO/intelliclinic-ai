@@ -1,0 +1,101 @@
+{"text": "Patient Juan has a fever of 38.5 C and BP is 120/80, complains of cough.", "label": "ENCODE_DATA"}
+{"text": "Maria Santos, 44, temperature 39.1 C, pulse 104, BP 145/92, complains of headache.", "label": "ENCODE_DATA"}
+{"text": "Recorded BP 98/62 and pulse 54 for patient Reyes this morning.", "label": "ENCODE_DATA"}
+{"text": "Administered paracetamol 500 mg to patient Dela Cruz at 08:30.", "label": "ENCODE_DATA"}
+{"text": "Patient Okafor is allergic to penicillin. Documented in the chart.", "label": "ENCODE_DATA"}
+{"text": "SpO2 91 percent on room air, respiratory rate 28, patient appears dyspnoeic.", "label": "ENCODE_DATA"}
+{"text": "Measured temperature 36.8 and BP 118/76 for the patient in bed 4.", "label": "ENCODE_DATA"}
+{"text": "Patient presented with three days of cough and mild fever, no chest pain.", "label": "ENCODE_DATA"}
+{"text": "Diagnosed with community acquired pneumonia, started on amoxicillin 500 mg three times daily.", "label": "ENCODE_DATA"}
+{"text": "Weight 62 kg, height 168 cm recorded for patient Alvarez.", "label": "ENCODE_DATA"}
+{"text": "Patient has no fever and no cough today, observations otherwise stable.", "label": "ENCODE_DATA"}
+{"text": "Follow-up visit for patient Nguyen, wound dressing changed, site clean and dry.", "label": "ENCODE_DATA"}
+{"text": "BP 160/100 recorded twice, 10 minutes apart, patient asymptomatic.", "label": "ENCODE_DATA"}
+{"text": "Patient Lim complains of dizziness since yesterday, BP 90/58, pulse 88.", "label": "ENCODE_DATA"}
+{"text": "Given ibuprofen 400 mg orally for fever of 38.9 C.", "label": "ENCODE_DATA"}
+{"text": "Temperature 35.4 recorded in the emergency room, patient is hypothermic.", "label": "ENCODE_DATA"}
+{"text": "Respiratory rate 12, SpO2 98 percent, patient discharged home.", "label": "ENCODE_DATA"}
+{"text": "Patient Haddad, 67, history of hypertension, currently on amlodipine 5 mg daily.", "label": "ENCODE_DATA"}
+{"text": "Complains of chest pain radiating to the left arm, onset 2 hours ago.", "label": "ENCODE_DATA"}
+{"text": "Nurse note: patient tolerated the procedure well, vitals stable throughout.", "label": "ENCODE_DATA"}
+{"text": "Rash observed on both forearms, patient reports itching since this morning.", "label": "ENCODE_DATA"}
+{"text": "Patient fasting since midnight for tomorrow's blood work.", "label": "ENCODE_DATA"}
+{"text": "Recorded intake and output: 1200 mL in, 900 mL out over the last shift.", "label": "ENCODE_DATA"}
+{"text": "BP 122/78, pulse 72 regular, temperature 37.0, patient resting comfortably.", "label": "ENCODE_DATA"}
+{"text": "Patient refused the medication, documented and reported to the physician.", "label": "ENCODE_DATA"}
+{"text": "Wound swab taken and sent to the laboratory for culture and sensitivity.", "label": "ENCODE_DATA"}
+{"text": "SpO2 89 percent, started on oxygen at 2 litres per minute via nasal cannula.", "label": "ENCODE_DATA"}
+{"text": "Patient reports no shortness of breath and denies any chest pain.", "label": "ENCODE_DATA"}
+{"text": "Temperature 40.2 C recorded, cold compress applied, physician notified.", "label": "ENCODE_DATA"}
+{"text": "Prescribed salbutamol inhaler 2 puffs every 4 hours as needed for wheeze.", "label": "ENCODE_DATA"}
+{"text": "Patient Torres has a blood pressure of 138 over 88 and a pulse of 96.", "label": "ENCODE_DATA"}
+{"text": "How many weeks should I wait between OPV dose 1 and dose 2?", "label": "ASK_QUESTION"}
+{"text": "What is the recommended interval between OPV dose 1 and OPV dose 2?", "label": "ASK_QUESTION"}
+{"text": "When should the second dose of hepatitis B vaccine be given?", "label": "ASK_QUESTION"}
+{"text": "What is the correct cold chain temperature range for vaccine storage?", "label": "ASK_QUESTION"}
+{"text": "How do I calculate the correct paracetamol dose for a 12 kg child?", "label": "ASK_QUESTION"}
+{"text": "Is it safe to give the MMR vaccine to a patient with a mild fever?", "label": "ASK_QUESTION"}
+{"text": "What are the contraindications for the yellow fever vaccine?", "label": "ASK_QUESTION"}
+{"text": "How often should blood pressure be monitored in a newly diagnosed hypertensive patient?", "label": "ASK_QUESTION"}
+{"text": "What is the standard operating procedure for needlestick injury?", "label": "ASK_QUESTION"}
+{"text": "Which vaccine is given at 9 months of age according to the national schedule?", "label": "ASK_QUESTION"}
+{"text": "How long should a patient wait after eating before taking the medication?", "label": "ASK_QUESTION"}
+{"text": "What is the protocol for handling a suspected tuberculosis case?", "label": "ASK_QUESTION"}
+{"text": "Can I give two live vaccines on the same day?", "label": "ASK_QUESTION"}
+{"text": "What is the shelf life of the reconstituted BCG vaccine?", "label": "ASK_QUESTION"}
+{"text": "When should a patient return for the next follow-up visit after starting antibiotics?", "label": "ASK_QUESTION"}
+{"text": "What are the criteria for referring a patient with high blood pressure to a specialist?", "label": "ASK_QUESTION"}
+{"text": "How much fluid should be given for the first 24 hours in a burn patient?", "label": "ASK_QUESTION"}
+{"text": "What is the recommended dose of oxytocin for postpartum haemorrhage?", "label": "ASK_QUESTION"}
+{"text": "Why does the immunization schedule recommend a booster at 18 months?", "label": "ASK_QUESTION"}
+{"text": "How do I document an adverse event following immunization?", "label": "ASK_QUESTION"}
+{"text": "What is the procedure for disposing of sharps in the clinic?", "label": "ASK_QUESTION"}
+{"text": "Should I wait before giving the next dose if the patient vomited after oral medication?", "label": "ASK_QUESTION"}
+{"text": "What is the minimum age for the first dose of the DPT vaccine?", "label": "ASK_QUESTION"}
+{"text": "How do I perform hand hygiene before a sterile procedure?", "label": "ASK_QUESTION"}
+{"text": "Which patients should be prioritised for a same-day consultation?", "label": "ASK_QUESTION"}
+{"text": "What is the difference between a live attenuated and an inactivated vaccine?", "label": "ASK_QUESTION"}
+{"text": "How long is a patient considered infectious after starting antibiotics for tuberculosis?", "label": "ASK_QUESTION"}
+{"text": "When do I need to repeat a pregnancy test before starting treatment?", "label": "ASK_QUESTION"}
+{"text": "What is the recommended interval between blood donations?", "label": "ASK_QUESTION"}
+{"text": "How should I store insulin once the vial has been opened?", "label": "ASK_QUESTION"}
+{"text": "What are the steps for measuring a patient's blood pressure correctly?", "label": "ASK_QUESTION"}
+{"text": "Is a consent form required for minor procedures in this clinic?", "label": "ASK_QUESTION"}
+{"text": "What is the guideline for antibiotic prophylaxis before dental procedures?", "label": "ASK_QUESTION"}
+{"text": "How do I escalate a patient whose oxygen saturation keeps dropping?", "label": "ASK_QUESTION"}
+{"text": "What is the maximum volume for an intramuscular injection in an adult?", "label": "ASK_QUESTION"}
+{"text": "When should a patient with dengue be admitted for observation?", "label": "ASK_QUESTION"}
+{"text": "What is the protocol for handover between nursing shifts?", "label": "ASK_QUESTION"}
+{"text": "How many days of isolation are required for a measles case?", "label": "ASK_QUESTION"}
+{"text": "What is the correct technique for collecting a midstream urine sample?", "label": "ASK_QUESTION"}
+{"text": "Can a patient receive the influenza vaccine during pregnancy?", "label": "ASK_QUESTION"}
+{"text": "What is the recommended timing for the first postnatal check?", "label": "ASK_QUESTION"}
+{"text": "How do I report a suspected adverse drug reaction?", "label": "ASK_QUESTION"}
+{"text": "What is the maximum dose of paracetamol per day for an adult?", "label": "ASK_QUESTION"}
+{"text": "How should the clinic respond to a power outage affecting the vaccine refrigerator?", "label": "ASK_QUESTION"}
+{"text": "Temperature is 210 C.", "label": "ENCODE_DATA"}
+{"text": "Temperature 41 C.", "label": "ENCODE_DATA"}
+{"text": "Temperature 38.5 C, pulse 104.", "label": "ENCODE_DATA"}
+{"text": "BP 180/110.", "label": "ENCODE_DATA"}
+{"text": "BP is 90/58, pulse 88.", "label": "ENCODE_DATA"}
+{"text": "Pulse 210, respiratory rate 32.", "label": "ENCODE_DATA"}
+{"text": "SpO2 85 percent on room air.", "label": "ENCODE_DATA"}
+{"text": "SpO2 is 88 percent.", "label": "ENCODE_DATA"}
+{"text": "Heart rate is 210 and the temperature is 41 C.", "label": "ENCODE_DATA"}
+{"text": "Respiratory rate 12, SpO2 98 percent.", "label": "ENCODE_DATA"}
+{"text": "Weight 62 kg, height 168 cm.", "label": "ENCODE_DATA"}
+{"text": "Temperature 210 C and BP 70/40 recorded for the patient in bed 3.", "label": "ENCODE_DATA"}
+{"text": "What is the recommended dose of amoxicillin for adults?", "label": "ASK_QUESTION"}
+{"text": "What is the dose of amoxicillin?", "label": "ASK_QUESTION"}
+{"text": "How much paracetamol can an adult take per day?", "label": "ASK_QUESTION"}
+{"text": "What is the recommended dose of paracetamol?", "label": "ASK_QUESTION"}
+{"text": "How do I calculate the dose for a child?", "label": "ASK_QUESTION"}
+{"text": "What is the cold chain temperature for vaccines?", "label": "ASK_QUESTION"}
+{"text": "When should the second dose be given?", "label": "ASK_QUESTION"}
+{"text": "How often should blood pressure be monitored?", "label": "ASK_QUESTION"}
+{"text": "What is the protocol for needlestick injury?", "label": "ASK_QUESTION"}
+{"text": "Which vaccine is given at 9 months?", "label": "ASK_QUESTION"}
+{"text": "How do I report an adverse drug reaction?", "label": "ASK_QUESTION"}
+{"text": "What is the maximum dose of paracetamol per day for an adult?", "label": "ASK_QUESTION"}
+{"text": "Is it safe to give the MMR vaccine during a mild fever?", "label": "ASK_QUESTION"}
+{"text": "Can a patient receive the influenza vaccine during pregnancy?", "label": "ASK_QUESTION"}

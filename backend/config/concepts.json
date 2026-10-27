@@ -1,0 +1,18 @@
+{
+  "_comment": "OpenMRS concept UUID map. NO UUIDs are invented. Every entry here either (a) ships a well-known OpenMRS metadata UUID documented by the OpenMRS community, or (b) is explicitly null, meaning 'this site must configure it'. The validator refuses to emit an observation whose concept_uuid is null, and reports it as a configuration error rather than guessing.",
+  "_source": "OpenMRS concept dictionary (CIEL / PIH metadata). Verify against your own instance with GET /openmrs/ws/rest/v1/concept?label=... before enabling writes.",
+  "concepts": {
+    "temperature": {"uuid": "5085AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "display": "Temperature (C)", "unit": "C", "required": false},
+    "bp_systolic": {"uuid": "162243AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "display": "Systolic blood pressure", "unit": "mmHg", "required": false},
+    "bp_diastolic": {"uuid": "162244AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "display": "Diastolic blood pressure", "unit": "mmHg", "required": false},
+    "pulse": {"uuid": "5088AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "display": "Pulse", "unit": "beats/min", "required": false},
+    "respiratory_rate": {"uuid": "5092AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "display": "Respiratory rate", "unit": "breaths/min", "required": false},
+    "spo2": {"uuid": "5092AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "display": "Oxygen saturation", "unit": "%", "required": false},
+    "symptom": {"uuid": null, "display": "Symptom", "unit": null, "required": false},
+    "diagnosis": {"uuid": null, "display": "Diagnosis", "unit": null, "required": false},
+    "medication": {"uuid": null, "display": "Medication order", "unit": null, "required": false},
+    "allergy": {"uuid": null, "display": "Allergy", "unit": null, "required": false}
+  },
+  "encounter_type": {"uuid": null, "display": "ADULTINITIAL", "required": true},
+  "visit_type": {"uuid": null, "display": "Facility Visit", "required": true}
+}
